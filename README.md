@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Nishad
 
-<!--
 DevOps | AI Enthusiast | Solutions Architect-in-Progress  
 From Business Analysis | AI-Powered DevOps Architecture  
 Open Source Advocate | Lifelong Learner
