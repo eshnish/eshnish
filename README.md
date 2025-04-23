@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Nishad
 
 <!--
-**eshnish/eshnish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps | AI Enthusiast | Solutions Architect-in-Progress  
+From Business Analysis | AI-Powered DevOps Architecture  
+Open Source Advocate | Lifelong Learner
 
-Here are some ideas to get you started:
+## Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **DevOps & Cloud:** AWS | Docker | Kubernetes | Terraform | GitHub Actions | Jenkins  
+- **AI/ML:** Python | scikit-learn | MLflow | Hugging Face | LangChain  
+- **Monitoring & Observability:** Prometheus | Grafana | ELK Stack  
+- **Infrastructure as Code (IaC):** Terraform | Pulumi | Ansible  
+- **Languages:** Python | Bash | YAML | Markdown  
+- **Other Tools:** Linux | Git | VS Code | Notion | Jupyter  
+
+---
+
+## What I’m Working On
+
+- Building a [GenAI-powered DevOps process management](#) (WIP)
+- Experimenting with MLOps pipelines using open-source tools
+- Learning more about cloud-native observability and SRE practices
+
+---
