@@ -17,7 +17,7 @@ Open Source Advocate | Lifelong Learner
 
 ## What I’m Working On
 
-- Building a [GenAI-powered DevOps process management](#) (WIP)
+- Something on GenAI :)
 - Experimenting with MLOps pipelines using open-source tools
 - Learning more about cloud-native observability and SRE practices
 
