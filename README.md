@@ -1,13 +1,10 @@
-## Hi there 👋, I'm Nishad
+## Hi there 👋, I'm not <willing to break the ICE>
 
-DevOps | AI Enthusiast | Solutions Architect-in-Progress  
-From Business Analysis | AI-Powered DevOps Architecture  
-Open Source Advocate | Lifelong Learner
+Linux | DevOps | Business Analysis | Cloud Solutions | Lifelong Learner
 
 ## Tools & Technologies
 
-- **DevOps & Cloud:** AWS | Docker | Kubernetes | Terraform | GitHub Actions | Jenkins  
-- **AI/ML:** Python | scikit-learn | MLflow | Hugging Face | LangChain  
+- **DevOps & Cloud:** RedHat | Docker | Kubernetes | Terraform | GitHub Actions | Jenkins  
 - **Monitoring & Observability:** Prometheus | Grafana | ELK Stack  
 - **Infrastructure as Code (IaC):** Terraform | Pulumi | Ansible  
 - **Languages:** Python | Bash | YAML | Markdown  
@@ -17,8 +14,6 @@ Open Source Advocate | Lifelong Learner
 
 ## What I’m Working On
 
-- Something on GenAI :)
-- Experimenting with MLOps pipelines using open-source tools
-- Learning more about cloud-native observability and SRE practices
+- Something on Linux :)
 
 ---
