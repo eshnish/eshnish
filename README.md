@@ -1,19 +1,20 @@
 ## Hi there 👋, I'm not 'willing to break the ICE'
 
-Linux | DevOps | Business Analysis | Cloud Solutions | Lifelong Learner
+Data Engineering | Cloud Solutions | Pipeline Architect
 
 ## Tools & Technologies
 
-- **DevOps & Cloud:** RedHat | Docker | Kubernetes | Terraform | GitHub Actions | Jenkins  
-- **Monitoring & Observability:** Prometheus | Grafana | ELK Stack  
-- **Infrastructure as Code (IaC):** Terraform | Pulumi | Ansible  
-- **Languages:** Python | Bash | YAML | Markdown  
-- **Other Tools:** Linux | Git | VS Code | Notion | Jupyter  
+- **Languages:** Python, SQL, Bash, YAML  
+- **Data Engineering:** Apache Airflow, Spark, dbt  
+- **Cloud Platforms:** GCP (BigQuery, Cloud Functions)  
+- **Databases:** PostgreSQL, Snowflake, MySQL 
+- **DevOps/Infra:** Docker, Terraform, GitHub Actions  
+- **Visualization:** Tableau, Power BI (basic) 
 
 ---
 
 ## What I’m Working On
 
-- Something on Linux :)
+- Something on big data :)
 
 ---
