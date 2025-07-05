@@ -1,20 +1,20 @@
 ## Hi there 👋, I'm not 'willing to break the ICE'
 
-Data Engineering | Cloud Solutions | Pipeline Architect
+Data Analytics | Supply Chain Analyst
 
 ## Tools & Technologies
 
-- **Languages:** Python, SQL, Bash, YAML  
-- **Data Engineering:** Apache Airflow, Spark, dbt  
-- **Cloud Platforms:** GCP (BigQuery, Cloud Functions)  
-- **Databases:** PostgreSQL, Snowflake, MySQL 
-- **DevOps/Infra:** Docker, Terraform, GitHub Actions  
-- **Visualization:** Tableau, Power BI (basic) 
+- **Languages:** Python, SQL  
+- **Data Analytics:** Tableau  
+- **Cloud Platforms:** AWS  
+- **Databases:** PostgreSQL, MySQL 
+- **DevOps/Infra:** Docker  
+- **Visualization:** Tableau 
 
 ---
 
 ## What I’m Working On
 
-- Something on big data :)
+- Supply Chain Analytics
 
 ---
