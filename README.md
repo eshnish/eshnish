@@ -16,6 +16,6 @@ Data Science
 
 ## What I’m Working On
 
-- Suspense!!
+- Working on a TDABC engine that takes in values from ERP and calculates the CCR and analyzes the utilization and forecasts the resources required for project completion
 
 ---
