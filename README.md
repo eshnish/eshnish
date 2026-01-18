@@ -1,20 +1,21 @@
 ## Hi there 👋, I'm not 'willing to break the ICE'
 
-Data Analytics | Supply Chain Analyst
+Data Science
 
 ## Tools & Technologies
 
 - **Languages:** Python, SQL  
-- **Data Analytics:** Tableau  
+- **Data Analytics/Visualization:** Tableau  
 - **Cloud Platforms:** AWS  
 - **Databases:** PostgreSQL, MySQL 
 - **DevOps/Infra:** Docker  
-- **Visualization:** Tableau 
+- **Machine Learning**
+- **NLP**
 
 ---
 
 ## What I’m Working On
 
-- Supply Chain Analytics
+- Suspense!!
 
 ---
